@@ -1,5 +1,5 @@
 # deep_learn
-Some project about segmentation.The fellow link is use the Paddleseg project，to add the new network at AI Studio platform.
+Some project about segmentation.The follow link is use the Paddleseg project，to add the new network at AI Studio platform.
 
 https://aistudio.baidu.com/aistudio/projectdetail/3447272?channelType=0&channel=0
 
